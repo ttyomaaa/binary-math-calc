@@ -1,4 +1,4 @@
-# binary-math-calc
+# binary math calculator
 ## hse coursework
 c-style .cpp <br />
 input: (correct) binary math expression in text file <br />
